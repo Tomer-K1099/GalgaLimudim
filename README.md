@@ -1,5 +1,4 @@
 # GalgaLimudim
-Bike and Scooter Rental Software - Software Engineering course project.
 This is a group project that features a Software Requirements Specification document (SRS), describing a scooter rental software that ought to be deployed within the premises of a university's campuses and designed especially for students or teachers. The document adheres to the IEEE-830-1998-Recommended Practice for Software Requirements Specifications standard.
 
 __Key Takes__:
